@@ -1,0 +1,5 @@
+package rennschneck;
+
+class rennschnecke {
+
+}
