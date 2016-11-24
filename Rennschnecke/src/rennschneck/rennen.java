@@ -1,9 +1,13 @@
 package rennschneck;
+import AlgoTools.IO;
 
 public class rennen {
 
 	public static void main(String[] args) {
-		System.out.println("Test");
+
+		rennschnecke schneck1=new rennschnecke("Hansi");
+		
+		IO.print(schneck1.getName());
 
 	}
 
