@@ -7,7 +7,7 @@ public class rennen {
 
 		rennschnecke schneck1=new rennschnecke("Hansi");
 		rennschnecke schneck2=new rennschnecke("Baby", 2.5, 25);
-		rennschnecke schneck3=new rennschnecke("Gomboc-Speedy", 15, -20);
+		rennschnecke schneck3=new rennschnecke("Gomboc-Speedy", 15, -10);
 		
 		for (int i=1; i<=10; i++) {
 			
